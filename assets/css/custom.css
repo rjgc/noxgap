@@ -10,7 +10,7 @@ body{
 }
 
 #loginmodal {
-    background: url(/assets/images/login.jpg) center center no-repeat fixed rgb(0, 0, 0);
+    background: url(assets/images/login.jpg) center center no-repeat fixed rgb(0, 0, 0);
 }
 
 .login-layout .widget-box {

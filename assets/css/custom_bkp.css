@@ -1,0 +1,238 @@
+
+body{
+    width: 100%;
+    font-size: 14px;
+}
+
+.ui-tabs .ui-tabs-nav li{
+    border-top-width: 0 !important;
+    margin: 0px !important;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-tabs-active>.tab-menu {
+    border: none;
+    background-color: #62a8d1 !important;
+    color: #FFF !important;
+    display: block;
+    line-height: inherit;
+    text-align: center;
+    height: 100%;
+    width: auto;
+    min-width: 50px;
+    /*padding: 0 8px;*/
+    position: relative;
+    top: 0px;
+    padding-top: 14px !important;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-state-default>.tab-menu {
+    border: none;
+    background-color: transparent;
+    color: #FFF !important;
+    display: block;
+    line-height: inherit;
+    text-align: center;
+    height: 100%;
+    width: auto;
+    min-width: 50px;
+    /*padding: 0 8px;*/
+    position: relative;
+    top: 0px;
+    padding-top: 14px !important;
+}
+
+.ui-tabs .ui-tabs-nav li.ui-state-default>.tab-menu[aria-selected="true"] {
+    border: none;
+    background-color: #5db2e4 !important;
+    color: #FFF !important;
+    display: block;
+    line-height: inherit;
+    text-align: center;
+    height: 100%;
+    width: auto;
+    min-width: 50px;
+    /*padding: 0 8px;*/
+    position: relative;
+    top: 0px;
+    padding-top: 14px !important;
+}
+
+#wrapper {
+    max-width: none;
+}
+
+#totals {
+    width: calc(100% - 20px);
+}
+
+#totals-container {
+    max-width: none;
+    width: 100%;
+}
+
+#regkey-container {
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+    float: inherit;
+}
+
+#regkey-inner {
+    display: inline-block;
+    width: 100%;
+    vertical-align: top;
+}
+
+.row-fixed{
+    margin-right: -10px;
+    margin-left: -10px;
+}
+
+.regbtn {
+    width: inherit;
+    min-width: 100px;
+    font-size: 15px !important;
+}
+
+.pos-actions{
+    /*margin-top: -12px;*/
+    margin-bottom: -6px;
+}
+
+.widget-body-totals{
+    border: solid 1px #CCC;
+    border-top: 0px;
+}
+
+#custemail{
+    width: calc(100% - 73px);
+}
+
+#salenotes{
+    width: 98%;
+}
+
+#items {
+    /*margin-bottom: 0px !important;*/
+    min-height: inherit;
+}
+
+.items-header{
+    border: 0;
+    border-bottom: 1px solid #dce8f1;
+    color: #4383b4;
+    padding-left: 3px;
+    font-size: 18px;
+    background: transparent;
+}
+
+.items-filters{
+    margin-bottom: 0;
+    padding: 10px;
+    background: #eff3f8;
+}
+
+.iboxitem {
+    color: #FFF;
+    background-color: #62a8ea;
+}
+
+.nav-user-photo {
+    margin: -4px 8px 0 0;
+    border-radius: 24px;
+    border: 2px solid #FFF;
+    max-width: 36px!important;
+}
+
+.user-info {
+    top: 0px;
+}
+
+.dropdown-item{
+    width: 155px;
+}
+
+#watermark {
+    opacity: 0.1 !important;
+
+}
+
+#reportcontain {
+    -moz-box-shadow: 0px 0px 4px 0px #ccc;
+    -webkit-box-shadow: 0px 0px 4px 0px #ccc;
+    box-shadow: 0px 0px 4px 0px #ccc;
+    max-width: none;
+}
+
+#subtotal,#discounttxt,#totaltax{
+    font-size: 15px;
+}
+
+#total{
+    color: #629b58 !important;
+    font-size: 15px;
+}
+
+.user-menu{
+    padding-right: 5px;
+}
+
+.sweet-alert h2 {
+    color: #575757;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 400;
+    text-transform: none;
+    position: relative;
+    margin: 25px 0;
+    padding: 0;
+    line-height: 30px;
+    display: block;
+}
+
+.sweet-alert button {
+    background-color: #8CD4F5;
+    color: white;
+    border: none;
+    box-shadow: none;
+    font-size: 15px;
+    font-weight: 500;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    padding: 10px 32px;
+    margin: 26px 5px 0 5px;
+    cursor: pointer;
+}
+
+.sweet-alert {
+    border-radius: 0px;
+}
+
+.ui-dialog-titlebar{
+    min-height: 16.428571429px !important;
+    padding: 15px !important;
+    border-bottom: 1px solid #e5e5e5 !important;
+    background-color: #FFF !important;
+}
+
+.ui-dialog .ui-dialog-content {
+    position: relative;
+    border: 0;
+    padding: 1.5em 2em !important;
+    background: 0;
+    overflow: auto;
+}
+
+#custdiv form input{
+    margin-bottom: 10px;
+}
+
+.keypad-popup {
+    width: 225px !important;
+}
+
+.keypad-key, .keypad-special, .keypad-key:focus {
+    border-color: transparent !important;
+}
+
+.keypad-popup, .keypad-inline, .keypad-key, .keypad-special { font-size: 17px !important; }

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="com.newoxygen.pos" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://com.newoxygen.pos/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://com.newoxygen.pos/Files/images/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://com.newoxygen.pos/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://com.newoxygen.pos/Files/images/Square30x30Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square30x30Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://com.newoxygen.pos/Files/images/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://com.newoxygen.pos/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://com.newoxygen.pos/Files/images/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://com.newoxygen.pos/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://com.newoxygen.pos/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://com.newoxygen.pos/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="base.js" uri="ms-resource://com.newoxygen.pos/Files/www/base.js">
+					<Candidate type="Path">
+						<Value>www\base.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova.js" uri="ms-resource://com.newoxygen.pos/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://com.newoxygen.pos/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://com.newoxygen.pos/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="cordova-js-src">
+					<NamedResource name="confighelper.js" uri="ms-resource://com.newoxygen.pos/Files/www/cordova-js-src/confighelper.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\confighelper.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="exec.js" uri="ms-resource://com.newoxygen.pos/Files/www/cordova-js-src/exec.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\exec.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platform.js" uri="ms-resource://com.newoxygen.pos/Files/www/cordova-js-src/platform.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\platform.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="splashscreen.js" uri="ms-resource://com.newoxygen.pos/Files/www/cordova-js-src/splashscreen.js">
+						<Candidate type="Path">
+							<Value>www\cordova-js-src\splashscreen.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="inappbrowser.css" uri="ms-resource://com.newoxygen.pos/Files/www/css/inappbrowser.css">
+						<Candidate type="Path">
+							<Value>www\css\inappbrowser.css</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="splashscreen.css" uri="ms-resource://com.newoxygen.pos/Files/www/css/splashscreen.css">
+						<Candidate type="Path">
+							<Value>www\css\splashscreen.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="cordova-plugin-inappbrowser">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="InAppBrowserProxy.js" uri="ms-resource://com.newoxygen.pos/Files/www/plugins/cordova-plugin-inappbrowser/src/windows/InAppBrowserProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="inappbrowser.js" uri="ms-resource://com.newoxygen.pos/Files/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js">
+								<Candidate type="Path">
+									<Value>www\plugins\cordova-plugin-inappbrowser\www\inappbrowser.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="org.apache.cordova.inappbrowser">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="InAppBrowserProxy.js" uri="ms-resource://com.newoxygen.pos/Files/www/plugins/org.apache.cordova.inappbrowser/src/windows/InAppBrowserProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="inappbrowser.js" uri="ms-resource://com.newoxygen.pos/Files/www/plugins/org.apache.cordova.inappbrowser/www/inappbrowser.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="WinJS">
+					<ResourceMapSubtree name="js">
+						<NamedResource name="base.js" uri="ms-resource://com.newoxygen.pos/Files/www/WinJS/js/base.js">
+							<Candidate type="Path">
+								<Value>www\WinJS\js\base.js</Value>
+							</Candidate>
+						</NamedResource>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

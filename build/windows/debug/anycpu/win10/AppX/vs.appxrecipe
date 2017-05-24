@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-ODCCUN8</Machine>
+    <WindowsUser>admin</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a0e85e20-406f-11e7-ac3c-1793100fd7b1</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>E:\Noxpos\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>7E9406518A7BAA0466DF20F41041C358FCA809F29859F68A95343BC173E95A73</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.newoxygen.pos_1.0.0.0_neutral__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.newoxygen.pos_h35559jr9hy9m!com.newoxygen.pos</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.newoxygen.pos</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Noxpos\platforms\windows\build\windows\Debug\AnyCPU\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-24T18:26:05.951</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-24T10:56:24.398</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-24T10:56:24.406</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2017-05-24T10:56:24.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-24T10:56:24.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-24T10:56:24.418</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2017-05-24T10:56:24.422</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-24T10:56:24.423</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-24T10:56:24.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-24T10:56:24.435</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\base.js">
+      <PackagePath>www\base.js</PackagePath>
+      <Modified>2017-05-24T13:42:07.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\cordova-js-src\confighelper.js">
+      <PackagePath>www\cordova-js-src\confighelper.js</PackagePath>
+      <Modified>2017-05-24T17:28:26.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2017-05-24T17:28:26.392</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2017-05-24T17:28:26.393</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\cordova-js-src\splashscreen.js">
+      <PackagePath>www\cordova-js-src\splashscreen.js</PackagePath>
+      <Modified>2017-05-24T10:56:25.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2017-05-24T10:56:25.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2017-05-24T17:28:26.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-inappbrowser\src\windows\InAppBrowserProxy.js</PackagePath>
+      <Modified>2017-05-24T17:28:26.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\plugins\cordova-plugin-inappbrowser\www\inappbrowser.js">
+      <PackagePath>www\plugins\cordova-plugin-inappbrowser\www\inappbrowser.js</PackagePath>
+      <Modified>2017-05-24T17:28:26.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js">
+      <PackagePath>www\plugins\org.apache.cordova.inappbrowser\src\windows\InAppBrowserProxy.js</PackagePath>
+      <Modified>2017-05-24T17:28:26.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js">
+      <PackagePath>www\plugins\org.apache.cordova.inappbrowser\www\inappbrowser.js</PackagePath>
+      <Modified>2017-05-24T17:28:26.519</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2017-05-24T10:56:25.454</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\css\inappbrowser.css">
+      <PackagePath>www\css\inappbrowser.css</PackagePath>
+      <Modified>2017-05-24T14:31:51.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\css\splashscreen.css">
+      <PackagePath>www\css\splashscreen.css</PackagePath>
+      <Modified>2017-05-24T10:56:25.783</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2017-05-24T18:29:28.002</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2017-05-24T17:41:27.529</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Noxpos\platforms\windows\build\windows\Debug\AnyCPU\win10\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-05-24T18:26:51.655</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

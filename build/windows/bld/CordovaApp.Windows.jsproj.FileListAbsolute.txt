@@ -1,0 +1,15 @@
+E:\Noxpos\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml
+E:\Noxpos\platforms\windows\build\windows\debug\anycpu\win8.1\CordovaApp.Windows.build.appxrecipe
+E:\Noxpos\platforms\windows\build\windows\bld\priconfig.xml
+E:\Noxpos\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+E:\Noxpos\platforms\windows\build\windows\bld\layout.resfiles
+E:\Noxpos\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+E:\Noxpos\platforms\windows\build\windows\bld\resources.resfiles
+E:\Noxpos\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+E:\Noxpos\platforms\windows\build\windows\bld\pri.resfiles
+E:\Noxpos\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+E:\Noxpos\platforms\windows\build\windows\bld\qualifiers.txt
+E:\Noxpos\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+E:\Noxpos\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+E:\Noxpos\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+E:\Noxpos\platforms\windows\build\windows\Debug\AnyCPU\win8.1\ReverseMap\resources.pri

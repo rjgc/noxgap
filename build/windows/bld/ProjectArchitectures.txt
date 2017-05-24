@@ -1,0 +1,1 @@
+E:\Noxpos\platforms\windows\CordovaApp.Windows10.jsproj;neutral

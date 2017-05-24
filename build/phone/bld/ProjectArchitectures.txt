@@ -1,0 +1,1 @@
+E:\Noxpos\platforms\windows\CordovaApp.Phone.jsproj;neutral

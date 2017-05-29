@@ -1,12 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.newoxygen.pos" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Noxpos</name>
-    <description>
-        Newoxygen POS
-    </description>
-    <author email="info@newoxygen.com" href="http://newoxygen.com">
-        Newoxygen
-    </author>
+    <author>Adobe</author>  
+    <name>PhoneGap Build App</name>  
+    <preference name="windows-identity-name" value="PhonegapBuild.PhoneGapBuild" />  
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />

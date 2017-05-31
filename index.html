@@ -6,31 +6,9 @@
         <title>NoxPOS</title>
     </head>
     <body>
-        <script type="text/javascript" src="/www/WinJS/js/base.js"></script>
-        <script type="text/javascript" src="cordova.js"></script>
-        <script type='text/javascript'>
-        window.onload = function() {
-            setTimeout(function(){
-                var iframe = document.createElement('iframe');
-                //iframe.style.display = "none";
-                iframe.src = 'http://apache.org/';
-                document.body.appendChild(iframe);
-            }, 5000);
-        };
-        </script>
-        <script type="text/javascript">
-        setTimeout(function(){
-        document.addEventListener("deviceready", onDeviceReady, false);
-        function onDeviceReady() {
-            window.open = cordova.InAppBrowser.open;
-            var ref = cordova.InAppBrowser.open('http://apache.org', '_self', 'location=yes');
-        }
-        }, 10000);
+
         
-        </script>
-        
-        
-    <!--<style>
+    <style>
             body {
                 margin: 0;            /* Reset default margin */
             }
@@ -42,6 +20,6 @@
                 width: 100vw;
             }
         </style>
-        <iframe src="http://noxpos.com" style="">Your browser doesn't support iFrames.</iframe>-->
+        <iframe src="http://apache.org/" style="">Your browser doesn't support iFrames.</iframe>
     </body>
 </html>

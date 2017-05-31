@@ -8,33 +8,12 @@
     <body>
         <script type="text/javascript" src="/www/WinJS/js/base.js"></script>
         <script type="text/javascript" src="cordova.js"></script>
-        <script>
-            document.addEventListener("deviceready", onDeviceReady, false);
-            function onDeviceReady() {
-               // window.href = "http://10.1.9.117";
-                //window.open('http://noxpos.com', '_blank', 'location=no');
-                //console.log("window.open works well");
-                setTimeout(function(){
-                    alert('1');
-                    var ref = cordova.InAppBrowser.open('http://noxpos.com', '_blank', 'location=no');
-                    window.open = cordova.InAppBrowser.open;    
-                }, 10000);
-                
-                setTimeout(function(){
-                    alert('2');
-                    window.open('http://noxpos.com', '_blank', 'location=no'); 
-                }, 20000);
-                
-                setTimeout(function(){
-                    alert('3');
-                    window.open('http://noxpos.com', '_self', 'location=no'); 
-                }, 40000);
-                
-                 setTimeout(function(){
-                    alert('4');
-                    window.open('http://noxpos.com', '_self', 'location=no'); 
-                }, 40000);
-            }
+        <script type="text/javascript">
+        document.addEventListener("deviceready", onDeviceReady, false);
+        function onDeviceReady() {
+            window.open = cordova.InAppBrowser.open;
+            var ref = cordova.InAppBrowser.open('http://noxpos.com', '_self', 'location=yes');
+        }
         </script>
 
 
